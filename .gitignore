@@ -1,6 +1,14 @@
 # 데이터 폴더
 data/
 
+# 벡터 DB 및 임베딩 저장소
+chroma_db/
+simple_db/
+test_db/
+test_simple_db/
+*.pkl
+vector_store/
+
 # 가상 환경
 venv/
 env/
