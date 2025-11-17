@@ -1,13 +1,13 @@
 # 데이터 폴더
 data/
 
-# 벡터 DB 및 임베딩 저장소
+# 벡터 DB 및 임베딩 저장소 (생성된 데이터 파일)
+# 주의: src/vector_store/는 소스 코드이므로 Git에 포함됨
 chroma_db/
 simple_db/
 test_db/
 test_simple_db/
 *.pkl
-vector_store/
 
 # 가상 환경
 venv/
